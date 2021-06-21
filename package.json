@@ -1,0 +1,22 @@
+{
+  "name": "money-transfer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ./index.js",
+    "prepare_db": "node ./seed_db.js;"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "execsql": "^0.0.3",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
