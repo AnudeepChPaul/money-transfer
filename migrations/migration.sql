@@ -12,6 +12,7 @@
  * All Rights Reserved.
  */
 
+
 CREATE DATABASE IF NOT EXISTS money_transfer;
 
 USE money_transfer;
