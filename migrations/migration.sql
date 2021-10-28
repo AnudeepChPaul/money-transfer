@@ -5,13 +5,6 @@
  * All Rights Reserved.
  */
 
-/*
- * Copyright © 2021.
- * Publishing migration.sql file under money-transfer Project.
- * Authored by Anudeep Chandra Paul.
- * All Rights Reserved.
- */
-
 
 CREATE DATABASE IF NOT EXISTS money_transfer;
 
