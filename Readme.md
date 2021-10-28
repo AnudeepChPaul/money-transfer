@@ -14,5 +14,4 @@
 - To seed db, Run `yarn run prepare_db` or `npm run prepare_db`
 - Now you're ready to run server with `yarn start` or `npm run start`
 
-##### Written with javascript. ( `typescript` avoided getting rid of unnecessary
-##### issues while running different system )
+##### Written with javascript. ( `typescript` avoided getting rid of unnecessary issues while running different system )
